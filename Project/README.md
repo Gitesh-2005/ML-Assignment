@@ -45,4 +45,6 @@ Frontend: Streamlit
 👨‍💻 Vaibhav Kumar Singh
 👩‍💻 Pushkar Charkha
 👩‍💻 Suyog Bodke
-🧑‍🏫 Dr. Anuradha Yenkikar
+
+🧑‍🏫 Mentor
+👩‍🏫 Dr. Anuradha Yenkikar
